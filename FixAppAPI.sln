@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixAppAPI", "FixAppAPI\FixAppAPI.csproj", "{6CD5ECBE-D485-4178-8C18-F8F0AABCBFD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixAppAPI.Tests", "FixAppAPI.Tests\FixAppAPI.Tests.csproj", "{1E96F4D2-1363-444D-A476-138253DC20DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD5ECBE-D485-4178-8C18-F8F0AABCBFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD5ECBE-D485-4178-8C18-F8F0AABCBFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD5ECBE-D485-4178-8C18-F8F0AABCBFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD5ECBE-D485-4178-8C18-F8F0AABCBFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E96F4D2-1363-444D-A476-138253DC20DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E96F4D2-1363-444D-A476-138253DC20DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E96F4D2-1363-444D-A476-138253DC20DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E96F4D2-1363-444D-A476-138253DC20DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF1E8E7-2012-4E0B-BE75-ACC4E5E545E7}
+	EndGlobalSection
+EndGlobal
